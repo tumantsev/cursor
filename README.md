@@ -1,2 +1,2 @@
 # cursor
-Cursor education repo for hws
+Cursor education repo for hw's
